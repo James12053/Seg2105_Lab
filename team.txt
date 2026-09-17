@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 I am Kyle
-=======
 Emmanuel
->>>>>>> 6440c54f18883260badc5d0502fe59373e795216
